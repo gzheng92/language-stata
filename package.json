@@ -1,12 +1,12 @@
 {
   "name": "language-stata",
   "main": "./lib/main.js",
-  "version": "1.7.3",
+  "version": "1.8.0",
   "description": "Enhanced Stata syntax highlighting in Atom",
   "license": "MIT",
-  "repository": "https://github.com/kylebarron/language-stata",
+  "repository": "https://github.com/gzheng92/language-stata",
   "bugs": {
-    "url": "https://github.com/kylebarron/language-stata/issues"
+    "url": "https://github.com/gzheng92/language-stata/issues"
   },
   "keywords": [
     "Stata"
