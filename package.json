@@ -12,7 +12,6 @@
     "Stata"
   ],
   "activationEvents": [
-    "*"
   ],
   "engines": {
     "atom": ">=0.1.0",
