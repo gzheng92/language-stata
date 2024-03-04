@@ -11,6 +11,9 @@
   "keywords": [
     "Stata"
   ],
+  "activationEvents": [
+    "*"
+  ],
   "engines": {
     "atom": ">=0.1.0",
     "vscode": "^1.87.0"
